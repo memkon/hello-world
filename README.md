@@ -1,4 +1,4 @@
 # hello-world
 Test repository
 
-I'm writing something about me. 
+I'm writing something about myself. 
